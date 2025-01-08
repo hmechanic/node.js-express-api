@@ -1,0 +1,19 @@
+{
+  "name": "node.js-express-api",
+  "version": "1.0.0",
+  "description": "this is the project realiced in the mujulive couse from youtube https://youtu.be/YmZE1HXjpd4?si=gFphUp7JF0CrMYM4",
+  "main": "1.http.js",
+  "scripts": {
+    "dev": "nodemon 1.http.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "standart": "^6.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
